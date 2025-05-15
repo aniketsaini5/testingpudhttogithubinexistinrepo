@@ -2,7 +2,8 @@
 
 int main() {
     std::cout << "Hello, TeamCode Hub!" << std::endl;
-    int a =8;
-    std::cout << a << std::endl;
+    int a;
+    std::cout << "Hello, TeamCode Hub!"<<a << std::endl;
+
     return 0;
 }
